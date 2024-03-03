@@ -1,0 +1,1 @@
+--create a DATABASE: CREATE DATABASE DATABASE_name
